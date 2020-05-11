@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+  background-color: #90d5ec;
+  background: linear-gradient(90deg, #90d5ec 0%, #fc575e 100%);
+  /* background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%); */
+  
+
+}
+
+code {
+  font-family: 'Courier New',
+    monospace;
+}
+
+button{
+  cursor: pointer;
+}
