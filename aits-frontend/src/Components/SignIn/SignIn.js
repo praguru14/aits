@@ -20,7 +20,7 @@ class SignIn extends React.Component {
     // event.preventDefault();
     // console.log(this.state);
     // console.log(this.state);
-    fetch('http://localhost:3000/signin',{
+    fetch('http://localhost:3000/SignIn',{
       method: 'post',
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({
